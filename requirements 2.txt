@@ -1,5 +1,0 @@
-https://core-previews.s3-us-west-2.amazonaws.com/pr-11302/streamlit-1.45.0-py3-none-any.whl
-streamlit>=1.45.0
-numpy
-plotly
-rasterio
